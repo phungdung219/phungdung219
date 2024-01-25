@@ -2,19 +2,6 @@
 
 <br/>
 
-<a href="https://www.facebook.com/ducdung.phung.9/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<a href="mailto:phungdung219@gmail.com">
-  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-
-<br />
-
-<br/>
-
 <p>
 A Skilled Frontend JavaScript Developer 🚀 from Vietnam. Always working on some project or learning something new!
 <br/>
